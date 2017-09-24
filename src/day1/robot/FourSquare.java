@@ -2,7 +2,7 @@ package day1.robot;
 
 import javax.swing.JOptionPane;
 import org.jointheleague.graphical.robot.Robot;
-//test
+//test 2
 public class FourSquare {
 	
 	// 2. Create a new Robot
